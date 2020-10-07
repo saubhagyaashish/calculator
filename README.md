@@ -1,0 +1,2 @@
+# calculator
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d74ab3c831bf4b8f9b28ba307dee7945)](https://app.codacy.com/gh/saubhagyaashish/calculator?utm_source=github.com&utm_medium=referral&utm_content=saubhagyaashish/calculator&utm_campaign=Badge_Grade_Settings)
