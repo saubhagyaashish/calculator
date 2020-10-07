@@ -37,23 +37,5 @@
 * Static code analysis using cppcheck
 
 
-![C/C++ CI](https://github.com/99002463/calculator/workflows/C/C++%20CI/badge.svg)      
-
-
-![cppcheck-action](https://github.com/99002463/calculator/workflows/cppcheck-action/badge.svg)
-
-
-
-
-![Unit testing](https://github.com/99002463/calculator/workflows/Unit%20testing/badge.svg)
-
-
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef868a9ce5a442c2b3e3b1611fe107ba)](https://app.codacy.com/manual/99002463/calculator?utm_source=github.com&utm_medium=referral&utm_content=99002463/calculator&utm_campaign=Badge_Grade_Dashboard)
-
-
-
-## Github Details
-* https://github.com/99002463/calculator:
-* By:SANJAT CHAND
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e7f9cccf8f44894882e3677db535075)](https://www.codacy.com/gh/saubhagyaashish/calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saubhagyaashish/calculator&amp;utm_campaign=Badge_Grade)
 
